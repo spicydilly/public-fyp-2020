@@ -16,10 +16,10 @@ Currently, within the project there exists 3 versions : [VR](#vr---windows-build
 To run the applications on their respective platforms just check out the [releases](#releases) below. However, you can access an upto date WebGL build running here : https://thedylon.com/fyp2020/
 
 ## Releases
-The most recent builds of this project can be found within the "Builds" folder of the respective project, or all published releases can be accessed directly here : [All Releases](https://github.com/spicydilly/CS-FYP-2020/releases)
+The most recent builds of this project can be found within the "Builds" folder of the respective project.
 
 ### VR - Windows Build 
-The most recent VR build download and release notes can be accessed [here](https://github.com/spicydilly/CS-FYP-2020/releases/tag/v0.3-alpha-vr)
+The most recent VR build download and release notes can be accessed [here](https://thedylon.com/fyp2020/windowsbuild.php)
 
 The download will provide you with a .zip file. Simply unzip this file to continue. If you need an unzipping program, try out this : https://www.win-rar.com/
 
@@ -34,7 +34,7 @@ How to play :
 - Can rotate the player by using the left controllers analog stick
 
 ### AR - Android Build
-The most recent AR build download and release notes can be accessed [here](https://github.com/spicydilly/CS-FYP-2020/releases/tag/v0.3-alpha-ar) 
+The most recent AR build download and release notes can be accessed [here](https://thedylon.com/fyp2020/androidbuild.php) 
 
 Just download the .apk file to your Android device, and then locate that file on the device using a file manager. After clicking on the .apk you should be propted to install the application, you may get some errors which can be ignored such as the applicaiton may be potentially dangerous ( that is fine, this applicaiton is just for development and is not published through the Google Play Store ). You may get an error indicating you are unable to install unknown sources/apps , this can be fixed by just enabling this setting on the Android device.
 
@@ -45,13 +45,7 @@ How to play :
 
 
 ### WebGL - Web Build
-The most recent Web build download and release notes can be accessed [here](https://github.com/spicydilly/CS-FYP-2020/releases/tag/v0.3-alpha-web) 
-
-The download will provide you with a .zip file. Simply unzip this file to continue. If you need an unzipping program, try out this : https://www.win-rar.com/
-
-The extracted files must be placed on a server to run. After placing on the server of your choice, just access the index.html page of that directory and the project should run. Further information on running the WebGL can be found here : https://docs.unity3d.com/2019.3/Documentation/Manual/webgl-building.html 
-
-You can access an already published version of this build here : https://thedylon.com/fyp2020/
+To run this build, check it out [here](https://thedylon.com/fyp2020/webbuild.php)
 
 How to play : 
 - Movement is via "W, A, S, D" or "Up, Left, Down, Right" keys

@@ -1,6 +1,8 @@
 # Computer Science Final Year Project 2020
 ### Dillon Condon 115432398
 
+The work in this GitHub repo began as a Final Year Project, proposed by Dr. Jason Quinlan, in the fourth year of the Computer Science Degree course (2020/21 term) at the School of Computer Science and Information Technology (CSIT) at University College Cork (UCC), Ireland.
+
 ### Table of Contents
 - [Introduction](#introduction)
 - [Releases](#releases)
